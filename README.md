@@ -7,6 +7,12 @@
 2. pip v1.18.0
 3. venv
 
-Before I start to install the Tensorflow package into my system, I create a
-virtual environment as following commands first:
-\# python -m venv tensorflow-study
+Before I start to install the Tensorflow package into my system, I create a virtual environment as following commands first:
+```
+# python -m venv tensorflow-study
+# cd tensorflow-study
+# source bin/active
+# python -m pip install tensorflow
+```
+
+(To be continue...)
